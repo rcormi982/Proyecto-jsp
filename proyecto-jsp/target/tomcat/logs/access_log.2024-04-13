@@ -1,0 +1,7 @@
+127.0.0.1 - - [13/Apr/2024:10:41:10 +0200] "GET /proyecto-jsp/ HTTP/1.1" 200 3319 http-bio-8080-exec-2 3143
+127.0.0.1 - - [13/Apr/2024:10:41:10 +0200] "GET /proyecto-jsp/assets/brand/logo.jpg HTTP/1.1" 304 - http-bio-8080-exec-1 32
+127.0.0.1 - - [13/Apr/2024:10:41:10 +0200] "GET /proyecto-jsp/assets/css/style.css HTTP/1.1" 304 - http-bio-8080-exec-3 41
+0:0:0:0:0:0:0:1 - - [13/Apr/2024:10:43:08 +0200] "GET /proyecto-jsp/ HTTP/1.1" 200 3331 http-bio-8080-exec-1 2304
+0:0:0:0:0:0:0:1 - - [13/Apr/2024:10:43:13 +0200] "GET /proyecto-jsp/ HTTP/1.1" 200 3331 http-bio-8080-exec-2 13
+0:0:0:0:0:0:0:1 - - [13/Apr/2024:10:43:16 +0200] "GET /proyecto-jsp/ HTTP/1.1" 200 3331 http-bio-8080-exec-3 13
+0:0:0:0:0:0:0:1 - - [13/Apr/2024:10:44:36 +0200] "GET /proyecto-jsp/ HTTP/1.1" 200 3335 http-bio-8080-exec-1 1962

@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:36:21 +0200] "GET /proyecto-jsp/home.jsp HTTP/1.1" 200 2893 http-bio-8080-exec-1 1837
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:36:29 +0200] "GET /proyecto-jsp HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:36:29 +0200] "GET /proyecto-jsp/ HTTP/1.1" 200 1936 http-bio-8080-exec-4 46
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:36:29 +0200] "GET /proyecto-jsp/assets/css/style.css HTTP/1.1" 304 - http-bio-8080-exec-5 16
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:36:46 +0200] "POST /proyecto-jsp/access.jsp HTTP/1.1" 302 - http-bio-8080-exec-6 183
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:36:47 +0200] "GET /proyecto-jsp/index.jsp HTTP/1.1" 200 2060 http-bio-8080-exec-7 16
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:37:06 +0200] "POST /proyecto-jsp/access.jsp HTTP/1.1" 200 3950 http-bio-8080-exec-8 359
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:37:06 +0200] "GET /proyecto-jsp/assets/brand/logo.jpg HTTP/1.1" 304 - http-bio-8080-exec-9 16
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:37:09 +0200] "GET /proyecto-jsp/home.jsp HTTP/1.1" 200 2893 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:37:18 +0200] "GET /proyecto-jsp/update.jsp HTTP/1.1" 200 22522 http-bio-8080-exec-10 77
+0:0:0:0:0:0:0:1 - - [24/Apr/2024:10:37:21 +0200] "GET /proyecto-jsp/edit.jsp?jornada=5 HTTP/1.1" 200 2737 http-bio-8080-exec-10 26
