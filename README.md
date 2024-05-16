@@ -10,4 +10,9 @@ En la base de datos se pueden registrar usuarios. Todos los usuarios pueden ver 
 
 ![](proyecto-jsp/Captura4.JPG)
 
+![](proyecto-jsp/Captura5.JPG)
+
+![](proyecto-jsp/Captura6.JPG)
+
+![](proyecto-jsp/Captura7.JPG)
 
